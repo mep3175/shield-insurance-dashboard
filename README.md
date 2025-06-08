@@ -87,17 +87,19 @@ This Power BI dashboard delivers a **360° business view**, enabling strategic d
 ## 📬 Acknowledgements
 
 Thanks to [Codebasics](https://www.codebasics.io/) and mentors like **Dhaval Patel** and **Hemanand Vadivel** for the opportunity to work on real-world business analytics problems.
-
----
-
-## 🔗 Connect with Me
-
-- 📧 [Your Email]
-- 🔗 [Your LinkedIn]
-- 🌐 Portfolio coming soon!
-
 ---
 
 ## 🏷️ Tags
 
 `#PowerBI` `#InsuranceAnalytics` `#KPI` `#DashboardDesign` `#CodebasicsVirtualInternship` `#SQL` `#DAX` `#BusinessIntelligence`
+---
+
+## 📊 Live Dashboard
+
+You can interact with the full Power BI dashboard here:
+
+👉 [View Shield Insurance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTA3NDBmN2MtYTRmZC00ZTlhLWE4M2YtNTg1NmM2YjI1YjVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+This dashboard is hosted on Power BI Service and includes all interactive pages: Overview, Sales Module, Age Group Analysis, and more.
+
+---
